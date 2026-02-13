@@ -1,4 +1,7 @@
-const API_URL = 'http://localhost:3000/api';
+// Detect if running locally or in production
+const API_URL = window.location.hostname === 'localhost' 
+    ? 'http://localhost:3000/api' 
+    : `${window.location.origin}/api`;
 let token = localStorage.getItem('token');
 let currentUser = JSON.parse(localStorage.getItem('user') || 'null');
 let currentProfile = null;
@@ -478,3 +481,4 @@ async function bookService(serviceId, bookingType) {
         showToast('Connection error', 'error');
     }
 }
+
