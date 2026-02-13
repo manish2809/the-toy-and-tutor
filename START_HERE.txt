@@ -1,0 +1,76 @@
+========================================
+  THE TOY AND TUTOR - DEPLOYMENT
+========================================
+
+Welcome! This folder contains everything you need to deploy your app.
+
+========================================
+  CHOOSE YOUR METHOD
+========================================
+
+Option 1: DON'T HAVE GIT? (Easiest)
+------------------------------------
+Open: DEPLOY_WITHOUT_GIT.md
+- Upload files to GitHub via web browser
+- No command line needed
+- Takes 10 minutes
+
+
+Option 2: INSTALL GIT (Recommended)
+------------------------------------
+Open: INSTALL_GIT.md
+- Install Git in 5 minutes
+- Then follow DEPLOY_COMMANDS.txt
+- Best for future projects
+
+
+Option 3: QUICK START (If you have Git)
+----------------------------------------
+Open: QUICK_START.md
+- Full deployment guide
+- Step-by-step instructions
+
+
+========================================
+  WHAT'S INCLUDED
+========================================
+
+✅ 25 Smartivity STEM toys with images
+✅ 12 tutors in Sholinganallur with ratings
+✅ Shopping cart & checkout
+✅ Service booking system
+✅ Mobile responsive design
+✅ Beautiful UI
+
+========================================
+  DEPLOYMENT PLATFORMS
+========================================
+
+Recommended: Render.com (Free)
+- Persistent database
+- Easy to use
+- Auto-deploy
+
+Alternatives:
+- Vercel.com (Fast)
+- Railway.app (Simple)
+- Heroku.com (Popular)
+
+========================================
+  NEED HELP?
+========================================
+
+1. Read DEPLOY_WITHOUT_GIT.md (easiest)
+2. Read DEPLOYMENT.md (detailed guide)
+3. Check README.md (full documentation)
+
+========================================
+  AFTER DEPLOYMENT
+========================================
+
+Your app will be live at:
+https://the-toy-and-tutor.onrender.com
+
+Share this URL with anyone!
+
+========================================
